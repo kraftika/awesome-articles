@@ -11,3 +11,7 @@
 
 ## Markdown
 * [Cheatsheets](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+# System design
+* [Message queue based load balancers](https://zef.me/message-queue-based-load-balancing-c3905dd18f7)
+
