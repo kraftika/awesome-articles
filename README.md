@@ -3,6 +3,17 @@
 ## Linux
 * [Commands - Unix/Linux/BSD](http://cb.vu/unixtoolbox.xhtml)
 
+## Git
+* When you cannot push from terminal into new repo
+```bash
+vim .git/config
+```
+```vim
+[branch "master"]
+  remote = origin
+  merge = refs/heads/master
+```
+
 ## SOLID
 * [Good explanations](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea)
 
