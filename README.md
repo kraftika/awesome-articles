@@ -26,10 +26,13 @@ vim .git/config
 * [Way to structure](https://hackernoon.com/the-100-correct-way-to-structure-a-react-app-or-why-theres-no-such-thing-3ede534ef1ed)
 * [Redux vs React context](https://daveceddia.com/context-api-vs-redux/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
 * [React children - deep dive](https://mxstbr.blog/2017/02/react-children-deepdive/)
+* [Fetch data in React](https://www.robinwieruch.de/react-fetching-data/)
+* [Simple react patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
 
 ## Web Development
 * [Mobile Design Forms](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/)
 * [Web arhitecture](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
+* [Web security](https://github.com/vasanthk/web-security-basics#csrf-cross-site-request-forgery)
 
 ## HTML
 * [HTML - Elements methods you pottentially never heard](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
@@ -43,4 +46,7 @@ vim .git/config
 
 # System design
 * [Message queue based load balancers](https://zef.me/message-queue-based-load-balancing-c3905dd18f7)
+
+# Interview question
+* [What happens when key is pressed](https://github.com/alex/what-happens-when#the-g-key-is-pressed)
 
