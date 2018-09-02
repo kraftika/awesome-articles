@@ -28,6 +28,7 @@ vim .git/config
 * [React children - deep dive](https://mxstbr.blog/2017/02/react-children-deepdive/)
 * [Fetch data in React](https://www.robinwieruch.de/react-fetching-data/)
 * [Simple react patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
+* [React Middleware](https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6)
 
 ## Web Development
 * [Mobile Design Forms](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/)
