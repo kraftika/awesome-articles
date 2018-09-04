@@ -4,6 +4,7 @@
 * [Commands - Unix/Linux/BSD](http://cb.vu/unixtoolbox.xhtml)
 
 ## Git
+* [Set multiple github accounts on local](https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca)
 * When you cannot push from terminal into new repo
 ```bash
 vim .git/config
