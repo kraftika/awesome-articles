@@ -48,7 +48,11 @@ vim .git/config
 
 # System design
 * [Message queue based load balancers](https://zef.me/message-queue-based-load-balancing-c3905dd18f7)
+* [System design resource](https://github.com/donnemartin/system-design-primer)
 
 # Interview question
 * [What happens when key is pressed](https://github.com/alex/what-happens-when#the-g-key-is-pressed)
+
+# Machine Learning
+* [100 Days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
