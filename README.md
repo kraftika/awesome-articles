@@ -31,6 +31,10 @@ vim .git/config
 * [Simple react patterns](http://lucasmreis.github.io/blog/simple-react-patterns/)
 * [React Middleware](https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6)
 
+## Redux
+
+* [Simple dispatch from this.props](https://stackoverflow.com/questions/34458261/how-to-get-simple-dispatch-from-this-props-using-connect-w-redux)
+
 ## Web Development
 * [Mobile Design Forms](https://www.smashingmagazine.com/2018/08/best-practices-for-mobile-form-design/)
 * [Web arhitecture](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
