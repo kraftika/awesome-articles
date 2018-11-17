@@ -15,6 +15,15 @@ vim .git/config
   merge = refs/heads/master
 ```
 
+## Javascript
+#### Async/await
+1. [Understanding Async/await](https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c)
+2. [Async functions](https://alligator.io/js/async-functions)
+
+### Data structures
+1. [Data structures in JS ](http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript)
+2. [Data structures by Nicolas Zakas](https://github.com/nzakas/computer-science-in-javascript/tree/master/data-structures)
+
 ## SOLID
 * [Good explanations](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea)
 
