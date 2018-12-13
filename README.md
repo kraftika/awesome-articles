@@ -20,9 +20,13 @@ vim .git/config
 1. [Understanding Async/await](https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c)
 2. [Async functions](https://alligator.io/js/async-functions)
 
-### Data structures
+#### Data structures
 1. [Data structures in JS ](http://blog.benoitvallon.com/data-structures-in-javascript/data-structures-in-javascript)
 2. [Data structures by Nicolas Zakas](https://github.com/nzakas/computer-science-in-javascript/tree/master/data-structures)
+
+#### Immutable
+1. [Immutable Javascript](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/)
+2. [Javascript immutable array](https://vincent.billey.me/pure-javascript-immutable-array/)
 
 ## SOLID
 * [Good explanations](https://android.jlelse.eu/solid-principles-the-definitive-guide-75e30a284dea)
