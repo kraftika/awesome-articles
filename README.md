@@ -14,6 +14,7 @@ vim .git/config
   remote = origin
   merge = refs/heads/master
 ```
+* [When you receive ```src refspec master does not match any.``` on push](https://georgik.rocks/common-mistake-when-creating-new-git-repo/)
 
 ## Javascript
 #### Async/await
