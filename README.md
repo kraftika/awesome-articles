@@ -46,6 +46,8 @@ vim .git/config
 * [React Middleware](https://medium.com/@jacobp100/you-arent-using-redux-middleware-enough-94ffe991e6)
 * [React Event handlers#1 - Arrow functions achieve Context Binding]()
 * [React Event handlers#2 - Correct use of arrow functions](https://stackoverflow.com/questions/48699573/correct-use-of-arrow-functions-in-react)
+* [setState like a pro](https://medium.freecodecamp.org/get-pro-with-react-setstate-in-10-minutes-d38251d1c781)
+* [setState future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
 
 ## Redux
 
