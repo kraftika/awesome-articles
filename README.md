@@ -2,6 +2,7 @@
 
 ## Linux
 * [Commands - Unix/Linux/BSD](http://cb.vu/unixtoolbox.xhtml)
+* [Practical Linux Hardening Guide](https://github.com/trimstray/the-practical-linux-hardening-guide?utm_source=programmingdigest&utm_medium=email&utm_campaign=featured#information_source-introduction-3)
 
 ## Git
 * [Set multiple github accounts on local](https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca)
