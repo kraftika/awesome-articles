@@ -36,6 +36,10 @@ vim .git/config
 ## Java 8 
 * [New features](http://winterbe.com/posts/2014/03/16/java-8-tutorial/)
 
+## FP
+* [Functional Programming Fundamentals](https://www.matthewgerstman.com/functional-programming-fundamentals/?utm_source=reactdigest&utm_medium=email&utm_campaign=featured)
+* [Jargons](https://github.com/hemanth/functional-programming-jargon)
+
 ## ReactJS
 * [Forms - controlled components](https://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/)
 * [Forms - refs, uncontrolled components](https://lorenstewart.me/2017/06/10/react-js-forms-using-refs/)
@@ -70,19 +74,19 @@ vim .git/config
 ## Markdown
 * [Cheatsheets](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-# System design
+## System design
 * [Message queue based load balancers](https://zef.me/message-queue-based-load-balancing-c3905dd18f7)
 * [System design resource](https://github.com/donnemartin/system-design-primer)
 
-# Interview question
+## Interview question
 * [What happens when key is pressed](https://github.com/alex/what-happens-when#the-g-key-is-pressed)
 
-# Machine Learning
+## Machine Learning
 * [100 Days of ML code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
-# Media
+## Media
 * [Hack the media (influence?) - what do you mean?](https://github.com/nemild/hack-the-media)
 
-# Firebase
+## Firebase
 * [Save and Query Firebase Data](https://howtofirebase.com/save-and-query-firebase-data-ed73fb8c6e3a)
 * [Firebase Data Modeling](https://howtofirebase.com/firebase-data-modeling-939585ade7f4)
