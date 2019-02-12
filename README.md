@@ -82,3 +82,7 @@ vim .git/config
 
 # Media
 * [Hack the media (influence?) - what do you mean?](https://github.com/nemild/hack-the-media)
+
+# Firebase
+* [Save and Query Firebase Data](https://howtofirebase.com/save-and-query-firebase-data-ed73fb8c6e3a)
+* [Firebase Data Modeling](https://howtofirebase.com/firebase-data-modeling-939585ade7f4)
