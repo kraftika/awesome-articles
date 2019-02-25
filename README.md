@@ -90,3 +90,6 @@ vim .git/config
 ## Firebase
 * [Save and Query Firebase Data](https://howtofirebase.com/save-and-query-firebase-data-ed73fb8c6e3a)
 * [Firebase Data Modeling](https://howtofirebase.com/firebase-data-modeling-939585ade7f4)
+
+## Database
+* [How to install MySQL on Mac](https://www.youtube.com/watch?v=jzvsotmNrK8)
