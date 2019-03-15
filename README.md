@@ -93,3 +93,4 @@ vim .git/config
 
 ## Database
 * [How to install MySQL on Mac](https://www.youtube.com/watch?v=jzvsotmNrK8)
+* [How to remove MySQL completely on MAc](https://gist.github.com/vitorbritto/0555879fe4414d18569d)
