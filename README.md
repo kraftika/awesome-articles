@@ -54,6 +54,7 @@ vim .git/config
 * [setState like a pro](https://medium.freecodecamp.org/get-pro-with-react-setstate-in-10-minutes-d38251d1c781)
 * [setState future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
 * [Why is passing the component initial state a prop an anti-pattern?](https://stackoverflow.com/questions/28785106/reactjs-why-is-passing-the-component-initial-state-a-prop-an-anti-pattern)
+* [React components communication](https://www.javascriptstuff.com/component-communication/#the-8-strategies)
 
 ## Redux
 
