@@ -16,6 +16,7 @@ vim .git/config
   merge = refs/heads/master
 ```
 * [When you receive ```src refspec master does not match any.``` on push](https://georgik.rocks/common-mistake-when-creating-new-git-repo/)
+* [Create a repo from command line](https://www.viget.com/articles/create-a-github-repo-from-the-command-line/) 
 
 ## Javascript
 #### Async/await
