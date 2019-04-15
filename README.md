@@ -56,6 +56,7 @@ vim .git/config
 * [setState future of React](https://medium.freecodecamp.org/functional-setstate-is-the-future-of-react-374f30401b6b)
 * [Why is passing the component initial state a prop an anti-pattern?](https://stackoverflow.com/questions/28785106/reactjs-why-is-passing-the-component-initial-state-a-prop-an-anti-pattern)
 * [React components communication](https://www.javascriptstuff.com/component-communication/#the-8-strategies)
+* [Enzyme cheatsheet](https://devhints.io/enzyme)
 
 ## React design patterns
 * [HOC vs Render Props](https://www.richardkotze.com/coding/hoc-vs-render-props-react)
