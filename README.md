@@ -72,9 +72,12 @@ vim .git/config
 ## HTML
 * [HTML - Elements methods you pottentially never heard](https://hackernoon.com/15-html-element-methods-youve-potentially-never-heard-of-fc6863e41b2a)
 * [How web caches work](http://www.web-caching.com/mnot_tutorial/how.html)
+* [HTML Cheatsheet](http://www.simplehtmlguide.com/cheatsheet.php)
 
 ## CSS
 * [Normalize vs reset](http://nicolasgallagher.com/about-normalize-css/)
+* [CSS Units](https://www.w3schools.com/cssref/css_units.asp)
+* [CSS Centering](https://flaviocopes.com/css-centering/)
 
 ## Markdown
 * [Cheatsheets](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
