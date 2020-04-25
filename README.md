@@ -57,6 +57,10 @@ vim .git/config
 * [Why is passing the component initial state a prop an anti-pattern?](https://stackoverflow.com/questions/28785106/reactjs-why-is-passing-the-component-initial-state-a-prop-an-anti-pattern)
 * [React components communication](https://www.javascriptstuff.com/component-communication/#the-8-strategies)
 * [Enzyme cheatsheet](https://devhints.io/enzyme)
+* [Organising React Application](https://levelup.gitconnected.com/enterprise-size-react-application-directory-structure-90b0ebc60d59)
+
+## React Hooks
+* [Complete guide by Dan Abramov](https://overreacted.io/a-complete-guide-to-useeffect/)
 
 ## React design patterns
 * [HOC vs Render Props](https://www.richardkotze.com/coding/hoc-vs-render-props-react)
